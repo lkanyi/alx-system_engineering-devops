@@ -1,1 +1,1 @@
-My first read me
+shell permissions script
