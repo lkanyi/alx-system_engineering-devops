@@ -1,1 +1,1 @@
-shell permissions script
+shell redirections script
